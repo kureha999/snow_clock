@@ -1,3 +1,2 @@
-README.md
------------------
-Snow Falling Clock made with CSS and JavaScript.
+雪の降る時計javascriptの練習で作成
+
